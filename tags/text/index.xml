@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>text on Cerebro</title>
-    <link>https://example.com/tags/text/</link>
+    <link>https://aryason.github.io/Cerebro/tags/text/</link>
     <description>Recent content in text on Cerebro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://aryason.github.io/Cerebro/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data</title>
-      <link>https://example.com/posts/data/</link>
+      <link>https://aryason.github.io/Cerebro/posts/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/data/</guid>
+      <guid>https://aryason.github.io/Cerebro/posts/data/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>System</title>
-      <link>https://example.com/posts/system/</link>
+      <link>https://aryason.github.io/Cerebro/posts/system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/system/</guid>
+      <guid>https://aryason.github.io/Cerebro/posts/system/</guid>
       <description>&lt;p&gt;The Style Guide provides you with a set of standards for the writing and design of theme posts and pages, either for
 general use or for a specific publication, organization, or field.&lt;/p&gt;</description>
     </item>

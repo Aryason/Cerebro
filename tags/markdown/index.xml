@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>markdown on Cerebro</title>
-    <link>https://example.com/tags/markdown/</link>
+    <link>https://aryason.github.io/Cerebro/tags/markdown/</link>
     <description>Recent content in markdown on Cerebro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://aryason.github.io/Cerebro/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data</title>
-      <link>https://example.com/posts/data/</link>
+      <link>https://aryason.github.io/Cerebro/posts/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/data/</guid>
+      <guid>https://aryason.github.io/Cerebro/posts/data/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Meet the Team</title>
-      <link>https://example.com/posts/meet-team/</link>
+      <link>https://aryason.github.io/Cerebro/posts/meet-team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/meet-team/</guid>
+      <guid>https://aryason.github.io/Cerebro/posts/meet-team/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>System</title>
-      <link>https://example.com/posts/system/</link>
+      <link>https://aryason.github.io/Cerebro/posts/system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/system/</guid>
+      <guid>https://aryason.github.io/Cerebro/posts/system/</guid>
       <description>&lt;p&gt;The Style Guide provides you with a set of standards for the writing and design of theme posts and pages, either for
 general use or for a specific publication, organization, or field.&lt;/p&gt;</description>
     </item>

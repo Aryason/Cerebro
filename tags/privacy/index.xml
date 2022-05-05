@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>privacy on Cerebro</title>
-    <link>https://example.com/tags/privacy/</link>
+    <link>https://aryason.github.io/Cerebro/tags/privacy/</link>
     <description>Recent content in privacy on Cerebro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://aryason.github.io/Cerebro/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Process</title>
-      <link>https://example.com/posts/design-process/</link>
+      <link>https://aryason.github.io/Cerebro/posts/design-process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/design-process/</guid>
+      <guid>https://aryason.github.io/Cerebro/posts/design-process/</guid>
       <description>&lt;p&gt;Get an inside look into how the team tackeled this project&lt;/p&gt;</description>
     </item>
     

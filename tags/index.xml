@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cerebro</title>
-    <link>https://example.com/tags/</link>
+    <link>https://aryason.github.io/Cerebro/tags/</link>
     <description>Recent content in Tags on Cerebro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://aryason.github.io/Cerebro/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://example.com/tags/css/</link>
+      <link>https://aryason.github.io/Cerebro/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/css/</guid>
+      <guid>https://aryason.github.io/Cerebro/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://example.com/tags/html/</link>
+      <link>https://aryason.github.io/Cerebro/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/html/</guid>
+      <guid>https://aryason.github.io/Cerebro/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://example.com/tags/index/</link>
+      <link>https://aryason.github.io/Cerebro/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/index/</guid>
+      <guid>https://aryason.github.io/Cerebro/tags/index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://example.com/tags/markdown/</link>
+      <link>https://aryason.github.io/Cerebro/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/markdown/</guid>
+      <guid>https://aryason.github.io/Cerebro/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://example.com/tags/privacy/</link>
+      <link>https://aryason.github.io/Cerebro/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/privacy/</guid>
+      <guid>https://aryason.github.io/Cerebro/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://example.com/tags/shortcodes/</link>
+      <link>https://aryason.github.io/Cerebro/tags/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/shortcodes/</guid>
+      <guid>https://aryason.github.io/Cerebro/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>showcase</title>
-      <link>https://example.com/tags/showcase/</link>
+      <link>https://aryason.github.io/Cerebro/tags/showcase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/showcase/</guid>
+      <guid>https://aryason.github.io/Cerebro/tags/showcase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://example.com/tags/text/</link>
+      <link>https://aryason.github.io/Cerebro/tags/text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/text/</guid>
+      <guid>https://aryason.github.io/Cerebro/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://example.com/tags/themes/</link>
+      <link>https://aryason.github.io/Cerebro/tags/themes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/themes/</guid>
+      <guid>https://aryason.github.io/Cerebro/tags/themes/</guid>
       <description></description>
     </item>
     
