@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cerebro</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on Cerebro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data</title>
+      <link>https://example.com/posts/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/data/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design Process</title>
+      <link>https://example.com/posts/design-process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/design-process/</guid>
+      <description>&lt;p&gt;Get an inside look into how the team tackeled this project&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Meet the Team</title>
+      <link>https://example.com/posts/meet-team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/meet-team/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Problem</title>
+      <link>https://example.com/posts/problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/problem/</guid>
+      <description>&lt;p&gt;Take a look at what problems the Cerebro hat solves.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>System</title>
+      <link>https://example.com/posts/system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/system/</guid>
+      <description>&lt;p&gt;The Style Guide provides you with a set of standards for the writing and design of theme posts and pages, either for
+general use or for a specific publication, organization, or field.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
