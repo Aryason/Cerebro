@@ -2,43 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aryason.github.io/Cerebro/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aryason.github.io/Cerebro/categories/</loc>
   </url><url>
     <loc>https://aryason.github.io/Cerebro/</loc>
   </url><url>
-    <loc>https://aryason.github.io/Cerebro/tags/css/</loc>
+    <loc>https://aryason.github.io/Cerebro/about/</loc>
   </url><url>
     <loc>https://aryason.github.io/Cerebro/posts/data/</loc>
   </url><url>
     <loc>https://aryason.github.io/Cerebro/posts/design-process/</loc>
   </url><url>
-    <loc>https://aryason.github.io/Cerebro/tags/html/</loc>
-  </url><url>
     <loc>https://aryason.github.io/Cerebro/tags/index/</loc>
-  </url><url>
-    <loc>https://aryason.github.io/Cerebro/tags/markdown/</loc>
   </url><url>
     <loc>https://aryason.github.io/Cerebro/posts/meet-team/</loc>
   </url><url>
     <loc>https://aryason.github.io/Cerebro/posts/</loc>
   </url><url>
-    <loc>https://aryason.github.io/Cerebro/tags/privacy/</loc>
-  </url><url>
     <loc>https://aryason.github.io/Cerebro/posts/problem/</loc>
-  </url><url>
-    <loc>https://aryason.github.io/Cerebro/tags/shortcodes/</loc>
-  </url><url>
-    <loc>https://aryason.github.io/Cerebro/tags/showcase/</loc>
   </url><url>
     <loc>https://aryason.github.io/Cerebro/posts/system/</loc>
   </url><url>
     <loc>https://aryason.github.io/Cerebro/tags/</loc>
-  </url><url>
-    <loc>https://aryason.github.io/Cerebro/tags/text/</loc>
-  </url><url>
-    <loc>https://aryason.github.io/Cerebro/tags/themes/</loc>
   </url>
 </urlset>

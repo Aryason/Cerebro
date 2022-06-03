@@ -18,7 +18,7 @@
       <a href="/Cerebro/" >Cerebro</a>
     </div>
     <ul class="inline-list">
-        <li class="inline-list__item"><a href="/Cerebro/about" title="">About</a></li>
+        <li class="inline-list__item"><a href="/Cerebro/about" title="">Contact</a></li>
     </ul>
   </div>
 </nav>
@@ -26,7 +26,7 @@
   <article class="post">
     <header class="header header--main">
   
-  <figure class="banner"><img src="/Cerebro/posts/data.jpg" alt="Header banner of &#39;Data&#39;" />
+  <figure class="banner"><img src="/Cerebro/posts/data/banner.jpg" alt="Header banner of &#39;Data&#39;" />
     <figcaption class="metadata"><a href="https://oregonstate.edu/">Sophie</a></figcaption>
 </figure>
 
@@ -45,48 +45,21 @@
 </header>
 
     <div class="container">
-      <div class="content"><p>Lorem est tota propiore conpellat pectoribus de
-pectora summo.</p>
-<p>Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
-caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
-lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
-<ol>
-<li>Exierant elisi ambit vivere dedere</li>
-<li>Duce pollice</li>
-<li>Eris modo</li>
-<li>Spargitque ferrea quos palude</li>
-</ol>
-<p>Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus
-silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria
-tractus malis.</p>
-<ol>
-<li>Comas hunc haec pietate fetum procerum dixit</li>
-<li>Post torum vates letum Tiresia</li>
-<li>Flumen querellas</li>
-<li>Arcanaque montibus omnes</li>
-<li>Quidem et</li>
-</ol>
-<h1 id="vagus-elidunt">Vagus elidunt</h1>
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
-<p><a href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon">The Van de Graaf Canon</a></p>
-<h2 id="mane-refeci-capiebant-unda-mulcebat">Mane refeci capiebant unda mulcebat</h2>
-<p>Victa caducifer, malo vulnere contra
-dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere
-furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. <strong>Faces illo pepulere</strong> tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.</p>
-<p>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli
-Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare
-Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert
-ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae
-vulnus haerentia iuste et exercebat, sui et.</p>
-<p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel <strong>mitis temploque</strong> vocatus, inque alis, <em>oculos nomen</em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem
-Propoetides <strong>parte</strong>.</p></div>
-      <footer class="footer">
-  <ul class="metadata inline-list">
-    <li class="inline-list__item"><a href="/Cerebro/tags/markdown/">markdown</a></li>
-    <li class="inline-list__item"><a href="/Cerebro/tags/text/">text</a></li>
-  </ul>
-      </footer>
+      <div class="content"><p>This section contains and illustrates the data taken from the fully functional AC hat. The data provided is the measured temperature and pressure differences along with the simulated data.</p>
+<hr>
+<h2 id="resulting-system-cooling">Resulting System Cooling</h2>
+<p>The results of the project demonstrate that there is a significant temperature gradient between the outlet of the compressor (T1) and the inlet of the evaporator after the expansion valve (T3). Depressurization after the expansion valve allows the evaporator to transfer heat into the refrigerant, creating an endothermic reaction that cools the pipes as the refrigerant evaporates. Calculating the coefficient of performance (COP) results in an average performance of 1.1. This indicates that the evaporator is releasing more heat out from the brim of the hat than is put through the compressor, a positive outcome for future designs for this project. Moving forward with this project, it is important to design around the heat dissipated out of the evaporator. It is clear with these results that more work is needed on the evaporator coils in order to increase the coefficient of performance. 
+<figure><img src="rawdata.jpg"/>
+</figure>
+</p>
+<h2 id="heat-dissipation-engineering-calculations">Heat Dissipation Engineering Calculations</h2>
+<p>The Cerebro project is a closed system, which ment that not data could be collected about the system until the hat was completed and charged. Because of this the team had to rely on deriving equations that modeled the system in order to ensure that components would be adequate in the system. One example of this was modeling the total heat dissipation from the condenser on the top of the hat. A Matlab script was written based off the determined equations, which then provided a heat dissipation estimation before the system manufacturing was completed.
+<figure><img src="code.jpg"/>
+</figure>
+
+<figure><img src="output.jpg"/>
+</figure>
+</p></div>
     </div>
   </article>
 </main>

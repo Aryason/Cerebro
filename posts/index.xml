@@ -12,8 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aryason.github.io/Cerebro/posts/data/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This section contains and illustrates the data taken from the fully functional AC hat. The data provided is the measured temperature and pressure differences along with the simulated data.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,7 +21,7 @@ pectora summo.&lt;/p&gt;</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aryason.github.io/Cerebro/posts/design-process/</guid>
-      <description>&lt;p&gt;Get an inside look into how the team tackeled this project&lt;/p&gt;</description>
+      <description>&lt;p&gt;This section will discuss the team’s approach to designing the Cerebro system, and discuss the layout prototypes created for this project.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,7 +30,7 @@ pectora summo.&lt;/p&gt;</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aryason.github.io/Cerebro/posts/meet-team/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Here the individual members of team Cerebro express who they are, where they come from, what they enjoy doing, and where they are going.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,7 +39,7 @@ pectora summo.&lt;/p&gt;</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aryason.github.io/Cerebro/posts/problem/</guid>
-      <description>&lt;p&gt;Take a look at what problems the Cerebro hat solves.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This section takes an indepth look into what problems the Cerebro hat solves, and the scope of this project.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,8 +48,7 @@ pectora summo.&lt;/p&gt;</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aryason.github.io/Cerebro/posts/system/</guid>
-      <description>&lt;p&gt;The Style Guide provides you with a set of standards for the writing and design of theme posts and pages, either for
-general use or for a specific publication, organization, or field.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Here the finalized system is described and thoroughly explained. The teams goes through the various mechanical and electrical  components that allow this system to function as a true vapor compression hard hat.&lt;/p&gt;</description>
     </item>
     
   </channel>
